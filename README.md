@@ -13,12 +13,12 @@
 ----|---- 
 |HTML/CSS| 8ヶ月|
 | Javascript | 8ヶ月 |
-| Vue.js | 6ヶ月 |
 | TypeScript | 3ヶ月 |
 | PHP | 2ヶ月 |
 
 | フレームワーク | 経験年数 |
 ----|---- 
+| Vue.js | 6ヶ月 |
 | Nuxt.js | 1ヶ月 |
 | CodeIgniter | 2ヶ月 |
 | Laravel | 独学 |
@@ -27,13 +27,11 @@
 
 | ツール等 | 経験年数 |
 ----|---- 
-| Nuxt.js | 1ヶ月 |
 | Git | 7ヶ月 |
 | GitHub | 8ヶ月(個人使用) |
 | Vagrant | 1ヶ月 |
 | redmine | 4ヶ月 |
 | backlog | 3ヶ月 |
-
 
 | 保有資格 | 取得時期 |
 ----|---- 
