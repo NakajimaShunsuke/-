@@ -174,3 +174,7 @@ DB
 ### 受賞歴
 ### 執筆歴
 * [Qiita記事](https://qiita.com/Sthudent_Camilo)
+### 登壇歴
+| イベント名 | 開催日 |
+----|---- 
+| [Yumemi.vue #4](https://speakerdeck.com/nakajimashunsuke/nuxtdevuewokuai-shi-nisuru) | 2019年12月11日 |
